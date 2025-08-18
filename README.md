@@ -9,5 +9,5 @@
 	-git checkout -b feature/home
 	-git push -u origin feature/home
 > Abrir PR com "Closes #1"
- https://github.com/daviddlw/Projeto/pull/3
-#
+> https://github.com/daviddlw/Projeto/pull/3
+
